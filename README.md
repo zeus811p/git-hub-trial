@@ -4,10 +4,11 @@
 	Yayy Pink and Purple
 
 ### Free Strickers
-	Yayy: 
-		* www.github.com
-		* www.digitalocean.com
-		* www.dev.io
+
+	Yayy: 	
+	www.github.com
+	www.digitalocean.com
+	www.dev.io
 
 ### Contributors
 
