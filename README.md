@@ -3,6 +3,7 @@
 ### Free T-shirt
 #### Yayy 
 * Pink
+* Blue
 * Purple
 
 ### Free Strickers
