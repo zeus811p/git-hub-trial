@@ -1,11 +1,11 @@
 # Hacktoberfest 19
 
-## Free T-shirt
+### Free T-shirt
 
-## Free Strickers
+### Free Strickers
 
-## Contributors
+### Contributors
 
-### ->Priyanka
+	 ->Priyanka
 
-### ->Pranav
+	 ->Pranav
