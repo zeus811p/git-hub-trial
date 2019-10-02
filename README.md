@@ -11,6 +11,6 @@
 
 ### Contributors
 
-	 ->Priyanka
-
-	 ->Pranav
+..* Priyanka
+..* Pranav0408
+..* Pranav0811
