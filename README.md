@@ -5,8 +5,8 @@
 
 ### Free Strickers
 	Yayy: 	
-	www.github 
-	com,www.digitalocean.com
+	www.github.com
+	www.digitalocean.com
 	www.dev.io
 
 ### Contributors
