@@ -1,7 +1,9 @@
 # Hacktoberfest 19
 
 ### Free T-shirt
-#### Yayy Pink and Purple
+#### Yayy 
+* Pink
+* Purple
 
 ### Free Strickers
 #### Yayy: 	
@@ -11,6 +13,6 @@
 
 ### Contributors
 #### Name:
-..* Priyanka
-..* Pranav0408
-..* Pranav0811
+* Priyanka
+* Pranav0408
+* Pranav0811
