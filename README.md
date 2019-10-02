@@ -10,7 +10,7 @@
 * www.dev.io
 
 ### Contributors
-
-	 ->Priyanka
-
-	 ->Pranav
+#### Name:
+..* Priyanka
+..* Pranav0408
+..* Pranav0811
